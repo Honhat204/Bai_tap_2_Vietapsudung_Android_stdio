@@ -235,7 +235,7 @@ o	Kết quả chạy Activity About trên thiết bị Android
 o	Kết quả chạy Activity Giải Toán và hiển thị kết quả
  
  <img width="526" height="1168" alt="image" src="https://github.com/user-attachments/assets/78bff870-277e-41ab-a275-4e086c25a062" />
-
+n
 
 o	Kết quả chạy Activity WebView truy cập web https://k58kmt.tdh.io.vn?masv=K225480106094
  
